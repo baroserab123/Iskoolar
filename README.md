@@ -1,2 +1,2 @@
 # Iskoolar
-This is the image target you will need for Iskoolar.
+This are the image targets you will need for Iskoolar.
